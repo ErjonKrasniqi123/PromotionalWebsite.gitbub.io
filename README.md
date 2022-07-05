@@ -1,6 +1,17 @@
 # PromotionalWebsite.gitbub.io
 Promotion
 
-Nationality: Canadian
-Ethnicity: Albanian 
-Langauges Spoken: English and Albanian
+Author Description
+- Nationality: Canadian
+
+
+- Ethnicity: Albanian
+
+
+- Langauges Spoken: English and Albanian
+
+
+- Hobbies: Soccer, Basketball, and Tenniss
+
+
+- 
